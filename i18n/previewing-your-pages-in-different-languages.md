@@ -1,4 +1,4 @@
-# Previewing you Pages In Different Languages
+# Previewing your Pages In Different Languages
 
 ## In Storybook
 
